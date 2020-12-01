@@ -1,8 +1,6 @@
-let number1 = "";
-let number2 = "";
+let number1 = "" , number2 = "";
 let secondval = false, notCleared = true, reset = false;
-let currentOperation;
-let final;
+let currentOperation, final;
 
 function joinNumber(value){
   if(reset){

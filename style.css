@@ -1,6 +1,6 @@
 .nButton, .fButton
 {
-    background-color: #ffffff; /*#01d87e;*/
+    background-color: #01d87e;
     border: none;
     color: white;
     text-align: center;
@@ -33,6 +33,11 @@
     border: none;
     font-size: 36px;
     resize: none;
+}
+
+#mainpanel
+{
+    background-color: bisque;
 }
 
 body
