@@ -38,6 +38,8 @@
 .mainpanel
 {
     background-color: bisque;
+    width: auto;
+    height: 500px;
 }
 
 body
