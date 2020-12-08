@@ -1,4 +1,11 @@
-.buttonpanel
+.leftpanel
 {
     text-align: center;
+    padding-left: 0%;
+    width: 300px;
+}
+
+body
+{
+    background: linear-gradient(#1f1f1f, #830000);
 }
