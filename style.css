@@ -9,9 +9,14 @@
 
 .toplink
 {
-transition: ease-in-out 0.2s;
+transition: color 0,2s ease-in-out;
 font-size: 16px;
-color:rgba(86,86,86,1);
+color:rgba(36,36,36,1);
+}
+
+.toplink:hover
+{
+    color:rgba(86,86,86,1);
 }
 
 body
