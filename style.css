@@ -9,17 +9,21 @@
 
 .toplink
 {
-    font-size: medium;
+    font-size: 20px;
     font-family: 'Montserrat', sans-serif;
-    font-weight: 800;
+    font-weight: 1000;
     color:rgba(36,36,36,1);
     transition: color 0.2s ease-in-out;
-    padding-right: 30px;
 }
 
 .toplink:hover
 {
-    color:rgba(86,86,86,1);
+    color:rgba(122,122,122,1);
+}
+
+header
+{
+    text-align: center;
 }
 
 body
