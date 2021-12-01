@@ -14,7 +14,7 @@
     font-weight: 800;
     color:rgba(36,36,36,1);
     transition: color 0.2s ease-in-out;
-    padding-left: 30px;
+    padding-right: 30px;
 }
 
 .toplink:hover
