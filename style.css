@@ -24,10 +24,10 @@
 header
 {
     text-align: center;
-    background: rgba(105,20,16,1);
+    background-color: rgba(105,20,16,1);
 }
 
 body
 {
-    background: rgba(36,36,36,1);
+    background-color: rgba(36,36,36,1);
 }
