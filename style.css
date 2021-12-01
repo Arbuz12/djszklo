@@ -7,6 +7,11 @@
     color: #3f1d1d;
 }
 
+.toplink:hover
+{
+    color:rgba(86,86,86,1)
+}
+
 body
 {
     background: rgb(157,7,0);
