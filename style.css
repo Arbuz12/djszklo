@@ -9,9 +9,10 @@
 
 .toplink
 {
-transition: color 0,2s ease-in-out;
-font-size: 16px;
+font-size: medium;
+font-family: 'Montserrat', sans-serif;
 color:rgba(36,36,36,1);
+transition: color 0.2s ease-in-out;
 }
 
 .toplink:hover
