@@ -7,9 +7,13 @@
     color: #3f1d1d;
 }
 
-toplink:hover
+
+
+toplink
 {
-    color:rgba(86,86,86,1)
+transition: ease-in-out 0.2s;
+font-size: 16px;
+color:rgba(86,86,86,1);
 }
 
 body
