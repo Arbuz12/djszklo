@@ -2,7 +2,7 @@ const graph = document.getElementById('graph');
 
 (async()=>{
     graph.innerHTML="";
-    const response = await fetch('http://api.nbp.pl/api/cenyzlota/last/30?format=json');
+    const response = await fetch('https://api.nbp.pl/api/cenyzlota/last/30?format=json');
     const data = await response.json();
     const {min,max} = findMinMax(data);
     const dataWithIndex = data.map((el,idx)=>[el,idx]);
