@@ -1,3 +1,2 @@
-var parent = document.getElementsByClassName('bodypanel');
-var pagescrollsize = document.getElementsByClassName('body');
+var pagescrollsize = document.getElementsByClassName('bodypanel');
 pagescrollsize.style.right = pagescrollsize.clientWidth - pagescrollsize.offsetWidth + "px";
