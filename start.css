@@ -36,3 +36,10 @@ body
 {
     height: 80px;
 }
+
+#info
+{
+    font-size: 10px;
+    margin-left: 2px;
+    color:red
+}
