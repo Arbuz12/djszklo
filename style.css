@@ -43,6 +43,8 @@ footer
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     color:white;
+    text-align: center;
+    text-anchor: middle;
     height: 3%;
 }
 
