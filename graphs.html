@@ -5,13 +5,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="graphs.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
 </head>
 <body>
     <div class="space"></div>
-    
-    <div id="graph">
+        <div class="mainpanel">
+            This graph shows the gold price (PLN/g) from the last 30 days.<br/>
+             Data is taken from <a style="color: white;" href="https://api.nbp.pl/api/cenyzlota/last/30?format=json">https://api.nbp.pl/api/cenyzlota/last/30?format=json</a><br/>
+            You can hover on each bar to see the price.
+            <div id="graph"></div>
+            <div id="date"></div>
+            
 
-    </div>
+        </div>
 
     <script src="graphs.js"></script>
 </body>
