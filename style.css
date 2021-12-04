@@ -33,6 +33,7 @@
 body
 {
     background-color: rgba(36,36,36,1);
+    height: 95%;
 }
 
 footer
@@ -42,6 +43,7 @@ footer
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     color:white;
+    height: 3%;
 }
 
 *
