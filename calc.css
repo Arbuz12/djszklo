@@ -1,6 +1,6 @@
 .nButton, .fButton
 {
-    background-color: #01d87e;
+    background-color: rgb(66,66,66);
     border: none;
     color: white;
     text-align: center;
@@ -33,9 +33,10 @@
     border: none;
     font-size: 36px;
     resize: none;
+    color: white;
 }
 
 body
 {
-    background: linear-gradient(#afffaf, #cfcfcf);
+    background-color: rgb(36,36,36);
 }
