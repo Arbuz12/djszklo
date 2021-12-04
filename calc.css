@@ -35,22 +35,7 @@
     resize: none;
 }
 
-.mainpanel
-{
-    background-color: bisque;
-    width: auto;
-    height: 500px;
-}
-
 body
 {
     background: linear-gradient(#afffaf, #cfcfcf);
-}
-
-footer
-{
-    text-align: center;
-    padding: 5px;
-    font-size: medium;
-    font-family: 'Montserrat', sans-serif;
 }
