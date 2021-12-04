@@ -7,6 +7,11 @@
     color: #3f1d1d;
 }
 
+.bodypanel
+{
+    background-color: darkolivegreen;
+}
+
 .toplink
 {
     font-size: 24px;
@@ -45,7 +50,7 @@ footer
     color:white;
     text-align: center;
     text-anchor: middle;
-    height: 3%;
+    height: 5%;
 }
 
 *
