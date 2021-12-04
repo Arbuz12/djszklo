@@ -18,7 +18,7 @@
 
 .toplink:hover
 {
-    color:rgba(122,122,122,1);
+    color:rgba(36,36,36,1);
 }
 
 .toppanel
@@ -27,7 +27,7 @@
     height: 5%;
     padding: 0px;
     text-align: center;
-    background-color: rgba(105,20,16,1);
+    background-color: rgb(65, 6, 173);
 }
 
 body
