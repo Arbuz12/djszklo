@@ -14,7 +14,7 @@ const graph = document.getElementById('graph');
         const child = document.createElement("div");
         child.style.width = "80%";
         child.style.flexBasis = `${(priceAndDate.cena - min + 10) / (max + 20) * 500}%`; //"50%";
-        child.style.backgroundColor = `rgb(${65 + index * 4}, 6, ${173 - index * 4})`;
+        child.style.backgroundColor = `rgba(65, 6, 173, ${index / 60 + 0.5})`;
         element.appendChild(child);
         graph.appendChild(element);
 
