@@ -34,3 +34,9 @@ body
 {
     background-color: rgba(36,36,36,1);
 }
+
+*
+{
+    margin: 0;
+    padding: 0;
+} 
