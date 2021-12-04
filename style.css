@@ -5,11 +5,15 @@
     width: 300px;
     height: 95%;
     color: #b40606;
+    display: inline-block;
 }
 
 .centerpanel
 {
+    width: 100% - 300px;
+    height: 95%;
     background-color: darkolivegreen;
+    display: inline-block;
 }
 
 .toplink
