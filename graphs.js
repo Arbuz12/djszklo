@@ -16,7 +16,7 @@ const dateTime = document.getElementById('date');
         const child = document.createElement("div");
         child.style.width = "80%";
         child.style.flexBasis = `${(priceAndDate.cena - min + 10) / (max + 20) * 500}%`; //"50%";
-        child.style.backgroundColor = `rgba(65, 6, 173, ${index / 60 + 0.5})`;
+        child.style.backgroundColor = `rgba(65, 6, 173, ${(priceAndDate.cena - min + 10) / (max + 20) * 300})`;
         
 
         element.appendChild(child);
